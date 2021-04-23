@@ -1,2 +1,3 @@
-# tarea-wagner
-Tarea 1 
+ 
+# Notas sobre investigación reproducible y análisis de datos
+## Reproductibilidad
